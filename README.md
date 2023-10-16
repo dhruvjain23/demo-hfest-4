@@ -1,11 +1,12 @@
-# demo-hfest-4
+# Demo Repository for Hacktoberfest 
 
-this is a demo repo
+This is a demo repository for Hacktoberfest.
 
+hacktoberfest 2023
 
-hacktoberfest 2021
+using git and github.
 
-using git.
+Feel free to clone this repo and make a pull request, will try to accept them.
 
 
 2022
